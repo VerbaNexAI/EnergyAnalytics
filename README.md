@@ -1,2 +1,2 @@
-# EnergyAnalytics
+# Energy Analytics
 Energy Analytics
